@@ -2,4 +2,4 @@
 
 - 🔭 Hoje estou como estagiária fullstack
 - 🌱 Estudando .NET e Angular
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
