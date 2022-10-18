@@ -1,4 +1,4 @@
-## Olá, seja bem-vinde. Eu sou Patricia Faustino 👋
+## Olá, seja bem-vinda(o). Eu sou Patricia Faustino 👋
 
 - 👩🏽‍💻 Pronomes: ela/dela
 
