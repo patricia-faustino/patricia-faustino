@@ -10,8 +10,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="30" src="/assets/icon-sql.png">
   <img align="center" alt="Terraform" height="30" width="30" src="/assets/icon-terraform.png">
-   <img align="center" alt="AWS" height="30" width="30" src="/assets/icon-aws.png">
-  <img align="right" alt="Gif-mulher-negra" width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> 
+  <img align="center" alt="AWS" height="30" width="30" src="/assets/icon-aws.png">
 </div>
   
 ###
