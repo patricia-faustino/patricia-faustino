@@ -15,8 +15,3 @@
   
 ###
 
- <div>
-  <a href="https://github.com/patricia-faustino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patricia-faustino&show_icons=true&theme=synthwave&count_private=true"/>
-</div>
-  
